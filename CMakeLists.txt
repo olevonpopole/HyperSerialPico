@@ -18,7 +18,7 @@ set(OUTPUT_SPI_INTERFACE spi0)
 set(SECOND_SEGMENT_INDEX=204)
 
 # If multi-segment is used and it's reversed, set this option to ON to enable reversing
-set(SECOND_SEGMENT_REVERSED OFF)
+set(SECOND_SEGMENT_REVERSED ON)
 
 # User configuration section ends here
 # Usually you don't need to change anything below this section
